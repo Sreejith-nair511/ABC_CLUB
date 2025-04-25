@@ -20,7 +20,15 @@ A modern, mobile-friendly web application built using Next.js, Tailwind CSS, and
 
 ## 📁 Project Structure
 
-abc-club/ ├── app/ # Core app directory (Next.js routing) │ ├── globals.css # Global styles │ └── clientLayout.tsx# Main layout wrapper ├── components.json # UI components (likely used with V0.dev or ShadCN) ├── tailwind.config.ts # Tailwind CSS configuration ├── tsconfig.json # TypeScript settings ├── postcss.config.mjs # PostCSS configuration ├── package.json # Project metadata and scripts └── .gitignore # Git ignored files
+abc-club/ ├── app/ # Core app directory (Next.js routing)
+│ ├── globals.css # Global styles │ 
+└── clientLayout.tsx# Main layout wrapper 
+├── components.json # UI components (likely used with V0.dev or ShadCN)
+├── tailwind.config.ts # Tailwind CSS configuration 
+├── tsconfig.json # TypeScript settings
+├── postcss.config.mjs # PostCSS configuration 
+├── package.json # Project metadata and scripts 
+└── .gitignore # Git ignored files
 
 
 
