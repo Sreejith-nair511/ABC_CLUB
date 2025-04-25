@@ -30,11 +30,10 @@ Make sure you have `pnpm` installed. If not, install it with:
 
 ```bash
 npm install -g pnpm
+
+
 Then run the following:
 
-bash
-Copy
-Edit
 pnpm install
 pnpm dev
 Your site should now be running on http://localhost:3000!
